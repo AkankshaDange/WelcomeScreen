@@ -20,5 +20,6 @@ private static int SPLASH_TIME_OUT=4000;
                 finish();
             }
         },SPLASH_TIME_OUT);
+        //HEY ADVAIT
     }
 }
